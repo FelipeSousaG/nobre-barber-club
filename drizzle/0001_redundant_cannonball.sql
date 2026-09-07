@@ -1,0 +1,1 @@
+ALTER TABLE `barbers` ADD `work_days` text DEFAULT '[]' NOT NULL;
